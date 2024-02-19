@@ -1,4 +1,4 @@
-# Videogames-Sales-Prediction
+<h1 style = "center">Videogames Sales Prediction</h1>
 This repository contains code for predicting video game sales using linear regression. The goal of this project is to develop a model that can accurately predict the sales of video games based on various features such as platform, genre, critic scores, user scores, etc.
 
 <h2>Dataset</h2>
@@ -63,9 +63,9 @@ Run the Jupyter notebook videogame sales prediction.ipynb to train the linear re
 Make predictions on new data.
 
 <h3>Results</h3>
-The trained model achieves an accuracy of X% on the testing data, indicating its capability to predict video game sales based on the provided features.
+The trained model achieves an accuracy of > 97% on the testing data, indicating its capability to predict video game sales based on the provided features.
 
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
+<h3>License</h3>
+This project is licensed under the MIT License. See the <a href = "https://mit-license.org/">LICENSE</a> file for details.
 
 
