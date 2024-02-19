@@ -17,7 +17,8 @@ The dataset used for this project is sourced from Kaggle. It contains informatio
 Clone the repository:
 
 
-git clone https://github.com/your-username/video-game-sales-prediction.git
+git clone 
+<a href>https://github.com/GouthamKumar025/Videogames-Sales-Prediction.git</a>
 
 <h3>Navigate to the project directory:</h3>
 
@@ -37,7 +38,7 @@ Run the Jupyter notebook videogame sales prediction.ipynb to train the linear re
   <li>Scale numerical features.</li>
 </ul>
 
-<h2>Model Training:</h2>
+<h3>Model Training:</h3>
 
 <ul>
   <li>Split the data into training and testing sets.</li>
@@ -45,7 +46,7 @@ Run the Jupyter notebook videogame sales prediction.ipynb to train the linear re
 </ul>
 
 
-<h2>Model Evaluation:</h2>
+<h3>Model Evaluation:</h3>
 
 <ul>
   <li>Evaluate the model's performance on the testing data.</li>
@@ -53,11 +54,11 @@ Run the Jupyter notebook videogame sales prediction.ipynb to train the linear re
 </ul>
 
 
-<h2>Prediction:</h2>
+<h3>Prediction:</h3>
 
-<li>Make predictions on new data.</li>
+Make predictions on new data.
 
-<h2>Results</h2>
+<h3>Results</h3>
 The trained model achieves an accuracy of X% on the testing data, indicating its capability to predict video game sales based on the provided features.
 
 License
