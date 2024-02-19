@@ -19,6 +19,8 @@ Clone the repository:
 
 git clone 
 <a href>https://github.com/GouthamKumar025/Videogames-Sales-Prediction.git</a>
+git clone https://github.com/your-username/video-game-sales-prediction.git
+
 
 <h3>Navigate to the project directory:</h3>
 
