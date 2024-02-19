@@ -14,11 +14,7 @@ The dataset used for this project is sourced from Kaggle. It contains informatio
 </ul>
 
 <h2>Usage</h2>
-Clone the repository:
-
-
-git clone 
-<a href>https://github.com/GouthamKumar025/Videogames-Sales-Prediction.git</a>
+<h3>Clone the repository:</h3>
 
 ```bash
 git clone https://github.com/your-username/video-game-sales-prediction.git
@@ -26,20 +22,15 @@ git clone https://github.com/your-username/video-game-sales-prediction.git
 
 <h3>Navigate to the project directory:</h3>
 
+```bash
 cd video-game-sales-prediction
-```bash
-npm install @primer/react
 ```
-
-```bash
-yarn add @primer/react
-```
-
-
 
 <h3>Install the required dependencies:</h3>
 
+```bash
 pip install -r requirements.txt
+```
 
 Run the Jupyter notebook videogame sales prediction.ipynb to train the linear regression model and make predictions.
 
