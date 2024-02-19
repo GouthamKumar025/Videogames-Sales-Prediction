@@ -19,17 +19,19 @@ Clone the repository:
 
 git clone 
 <a href>https://github.com/GouthamKumar025/Videogames-Sales-Prediction.git</a>
-git clone https://github.com/your-username/video-game-sales-prediction.git
 
+```bash
+git clone https://github.com/your-username/video-game-sales-prediction.git
+```
 
 <h3>Navigate to the project directory:</h3>
 
 cd video-game-sales-prediction
-```console
+```bash
 npm install @primer/react
 ```
 
-```console
+```bash
 yarn add @primer/react
 ```
 
