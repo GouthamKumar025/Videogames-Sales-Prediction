@@ -1,4 +1,6 @@
-<h1 class = "center">Videogames Sales Prediction using Regression<</h1>
+<center>
+    <h1>Videogames Sales Prediction using Regression</h1>
+</center>
 This repository contains code for predicting video game sales using linear regression. The goal of this project is to develop a model that can accurately predict the sales of video games based on various features such as platform, genre, critic scores, user scores, etc.
 
 <h2>Dataset</h2>
