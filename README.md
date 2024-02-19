@@ -31,26 +31,26 @@ Run the Jupyter notebook videogame sales prediction.ipynb to train the linear re
 
 <h2>Methodology</h2>
 <h3>Data Preprocessing:</h3>
-<li>
-  <ul>Handle missing values.</ul>
-  <ul>Encode categorical variables.</ul>
-  <ul>Scale numerical features.</ul>
-</li>
+<ul>
+  <li>Handle missing values.</li>
+  <li>Encode categorical variables.</li>
+  <li>Scale numerical features.</li>
+</ul>
 
 <h2>Model Training:</h2>
 
-<li>
-  <ul>Split the data into training and testing sets.</ul>
-  <ul>Train a linear regression model on the training data.</ul>
-</li>
+<ul>
+  <li>Split the data into training and testing sets.</li>
+  <li>Train a linear regression model on the training data.</li>
+</ul>
 
 
 <h2>Model Evaluation:</h2>
 
-<li>
-  <ul>Evaluate the model's performance on the testing data.</ul>
-  <ul>Analyze metrics such as mean squared error, R-squared, etc.</ul>
-</li>
+<ul>
+  <li>Evaluate the model's performance on the testing data.</li>
+  <li>Analyze metrics such as mean squared error, R-squared, etc.</li>
+</ul>
 
 
 <h2>Prediction:</h2>
