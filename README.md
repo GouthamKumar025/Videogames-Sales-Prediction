@@ -23,9 +23,17 @@ git clone https://github.com/your-username/video-game-sales-prediction.git
 
 
 <h3>Navigate to the project directory:</h3>
-'''bash
+
 cd video-game-sales-prediction
-'''
+```console
+npm install @primer/react
+```
+
+```console
+yarn add @primer/react
+```
+
+
 
 <h3>Install the required dependencies:</h3>
 
