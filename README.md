@@ -1,63 +1,66 @@
 # Videogames-Sales-Prediction
 This repository contains code for predicting video game sales using linear regression. The goal of this project is to develop a model that can accurately predict the sales of video games based on various features such as platform, genre, critic scores, user scores, etc.
 
-Dataset
+<h2>Dataset</h2>
 The dataset used for this project is sourced from Kaggle. It contains information about video games including their sales figures and various attributes like platform, genre, critic scores, user scores, etc. The dataset is split into training and testing sets to evaluate the performance of the model.
 
-Requirements
-Python 3.x
-Pandas
-NumPy
-Scikit-learn
-Matplotlib
-Usage
+<h2>Requirements</h2>
+<ul>
+  <li>Python 3.x</li>
+  <li>Pandas</li>
+  <li>NumPy</li>
+  <li>Scikit-learn</li>
+  <li>Matplotlib</li>
+</ul>
+
+<h2>Usage</h2>
 Clone the repository:
 
-bash
-Copy code
+
 git clone https://github.com/your-username/video-game-sales-prediction.git
-Navigate to the project directory:
 
-bash
-Copy code
+<h3>Navigate to the project directory:</h3>
+
 cd video-game-sales-prediction
-Install the required dependencies:
 
-bash
-Copy code
+<h3>Install the required dependencies:</h3>
+
 pip install -r requirements.txt
-Run the Jupyter notebook video_game_sales_prediction.ipynb to train the linear regression model and make predictions.
 
-Methodology
-Data Preprocessing:
+Run the Jupyter notebook videogame sales prediction.ipynb to train the linear regression model and make predictions.
 
-Handle missing values.
-Encode categorical variables.
-Scale numerical features.
-Model Training:
+<h2>Methodology</h2>
+<h3>Data Preprocessing:</h3>
+<li>
+  <ul>Handle missing values.</ul>
+  <ul>Encode categorical variables.</ul>
+  <ul>Scale numerical features.</ul>
+</li>
 
-Split the data into training and testing sets.
-Train a linear regression model on the training data.
-Model Evaluation:
+<h2>Model Training:</h2>
 
-Evaluate the model's performance on the testing data.
-Analyze metrics such as mean squared error, R-squared, etc.
-Prediction:
+<li>
+  <ul>Split the data into training and testing sets.</ul>
+  <ul>Train a linear regression model on the training data.</ul>
+</li>
 
-Make predictions on new data.
-Results
+
+<h2>Model Evaluation:</h2>
+
+<li>
+  <ul>Evaluate the model's performance on the testing data.</ul>
+  <ul>Analyze metrics such as mean squared error, R-squared, etc.</ul>
+</li>
+
+
+<h2>Prediction:</h2>
+
+<li>Make predictions on new data.</li>
+
+<h2>Results</h2>
 The trained model achieves an accuracy of X% on the testing data, indicating its capability to predict video game sales based on the provided features.
-
-Contributing
-Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or create a pull request.
 
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Acknowledgements
-This project was inspired by the work done in the field of machine learning and predictive analytics.
-Dataset provided by Kaggle user rush4ratio.
-Contact
-For any inquiries or feedback, please contact your-email@example.com.
 
-Happy gaming and predicting! 🎮📈
