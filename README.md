@@ -19,7 +19,7 @@ The dataset used for this project is sourced from Kaggle. It contains informatio
 <h3>Clone the repository:</h3>
 
 ```bash
-git clone https://github.com/your-username/video-game-sales-prediction.git
+git clone https://github.com/GouthamKumar025/video-game-sales-prediction.git
 ```
 
 <h3>Navigate to the project directory:</h3>
